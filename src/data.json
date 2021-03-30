@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "shirt1",
+      "image": "/images/shirt1.jpg",
+      "title": "Kaos Kenangan Jogja",
+      "description": "Kaos ini hadir dalam warna putih dengan kesan kenangan pada Jogja",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 138000
+    },
+    {
+      "_id": "shirt2",
+      "image": "/images/shirt2.jpg",
+      "title": "Kaos Kenangan Surabaya",
+      "description": "Kaos ini hadir dalam warna putihh dengan gambar keluarga ",
+      "availableSizes": ["X", "M", "L"],
+      "price": 200000
+    },
+    {
+      "_id": "shirt3",
+      "image": "/images/shirt3.jpg",
+      "title": "Kaos Kenangan Jakarta",
+      "description": "Kaos ini hadir dalam warna putih dengan kesan gambar Monas",
+      "availableSizes": ["X", "M", "L"],
+      "price": 98900
+    },
+    {
+      "_id": "shirt4",
+      "image": "/images/shirt4.jpg",
+      "title": "Kaos Kenangan Series Cowok",
+      "description": "Kaos ini hadir dalam warna hitam dengan tulisan yang mudah dibaca sehingga cocok untuk kasih kode ",
+      "availableSizes": ["XL"],
+      "price": 145900
+    },
+    {
+      "_id": "shirt5",
+      "image": "/images/shirt5.jpg",
+      "title": "Kaos Kenangan Series Cewek",
+      "description": "Kaos ini hadir dalam warna hitam dengan tulisan yang mudah dibaca sehingga cocok untuk kasih kode ",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 199000
+    },
+    {
+      "_id": "shirt6",
+      "image": "/images/shirt6.jpg",
+      "title": "Kaos Kenangan Series Cewek",
+      "description": "Kaos ini hadir dalam warna hitam dengan tulisan yang mudah dibaca sehingga cocok untuk kasih kode ",
+      "availableSizes": ["XL", "XXL"],
+      "price": 231000
+    }
+  ]
+}
